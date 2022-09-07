@@ -49,10 +49,24 @@ a:visited {
     
 }
 
+.portfolio-title{
+    position: relative;
+    top: 175px;
+    font-size:20px;
+    left:35%
+}
+
+.main-titles{
+    text-align: right;
+    position: absolute;
+    right:55%;
+    top:276px;
+}
+
 .main-text{
     text-align: left;
     position: relative;
-    left:50%;
+    left:52%;
     top:200px;
     margin-right: 60%;
 }

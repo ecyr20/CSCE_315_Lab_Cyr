@@ -45,14 +45,20 @@ a:visited {
     color:black;
     padding: 10px 25px;
     
+
     
-    
+}
+.image{
+    position: relative;
+    top:250px;
+    text-align: right;
+    right:52%;
 }
 
 .main-text{
     text-align: left;
     position: relative;
-    left:50%;
-    top:200px;
+    left:52%;
+    
     margin-right: 60%;
 }
